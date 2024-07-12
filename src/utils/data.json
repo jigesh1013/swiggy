@@ -1,0 +1,219 @@
+{
+  "persons": [
+      {
+          "type": "restaurant",
+          "data": {
+              "type": "F",
+              "id": "76858",
+              "name": "Feeling Hungry",
+              "cloudinaryImageId": "oxsb5mr1xsmhnxhunjsc",
+              "cuisines": [
+                  "Chinese",
+                  "North Indian",
+                  "Biryani"
+              ],
+              "costForTwo": 2000,
+              "costForTwoString": "₹20 FOR TWO",
+              "deliveryTime": 35,
+              "minDeliveryTime": 30,
+              "restaurantId": 76858
+          },
+          "menu": [
+              {
+                  "name": "Paneer Lababdar",
+                  "cost": 340
+              },
+              {
+                  "name": "Hyderabadi Biryani",
+                  "cost": 360
+              },
+              {
+                  "name": "Manchurian",
+                  "cost": 280
+              },
+              {
+                  "name": "Veg. Diwani Handi",
+                  "cost": 310
+              },
+              {
+                  "name": "Pulao",
+                  "cost": 260
+              }
+          ]
+      },
+      {
+          "type": "restaurant",
+          "data": {
+              "type": "F",
+              "id": "617279",
+              "name": "Malaxmi Fast Food",
+              "cloudinaryImageId": "agkm7cflq72tkualhstb",
+              "cuisines": [
+                  "Fast Food",
+                  "Pizzas",
+                  "Snacks",
+                  "Beverages"
+              ],
+              "costForTwo": 20000,
+              "costForTwoString": "₹200 FOR TWO",
+              "deliveryTime": 44,
+              "minDeliveryTime": 40,
+              "restaurantId": 617279
+          },
+          "menu": [
+              {
+                  "name": "Pau Bhaji",
+                  "cost": 180
+              },
+              {
+                  "name": "Chole Puri",
+                  "cost": 190
+              },
+              {
+                  "name": "Ragda Patties",
+                  "cost": 120
+              },
+              {
+                  "name": "Medu Vada",
+                  "cost": 100
+              },
+              {
+                  "name": "Idli",
+                  "cost": 80
+              }
+          ],
+          "avgRating": "4.0"
+      },
+      {
+          "type": "restaurant",
+          "data": {
+              "type": "F",
+              "id": "469264",
+              "name": "Dessert House",
+              "cloudinaryImageId": "jegpumsjcmomksbr2sxr",
+              "cuisines": [
+                  "Desserts",
+                  "Ice Cream"
+              ],
+              "costForTwo": 15000,
+              "costForTwoString": "₹150 FOR TWO",
+              "deliveryTime": 27,
+              "minDeliveryTime": 25,
+              "restaurantId": 469264
+          },
+          "menu": [
+              {
+                  "name": "3 Layer Boat",
+                  "cost": 160
+              },
+              {
+                  "name": "Crunchy Chocolate",
+                  "cost": 220
+              },
+              {
+                  "name": "Rabdi with Jalebi",
+                  "cost": 280
+              },
+              {
+                  "name": "Jaggery Basudi",
+                  "cost": 250
+              },
+              {
+                  "name": "Sweet Strawberry",
+                  "cost": 140
+              }
+          ],
+          "avgRating": "4.5"
+      },
+      {
+          "type": "restaurant",
+          "data": {
+              "type": "F",
+              "id": "395204",
+              "name": "McDonald's Gourmet Burger Collection",
+              "cloudinaryImageId": "wzbo5xivr8hstl0vxzcm",
+              "cuisines": [
+                  "Burgers",
+                  "Beverages",
+                  "Cafe",
+                  "Desserts"
+              ],
+              "costForTwo": 50000,
+              "costForTwoString": "₹500 FOR TWO",
+              "deliveryTime": 31,
+              "minDeliveryTime": 30,
+              "restaurantId": 395204
+          },
+          "menu": [
+              {
+                  "name": "Burger",
+                  "cost": 100
+              },
+              {
+                  "name": "Hot Dog",
+                  "cost": 120
+              },
+              {
+                  "name": "French Fries",
+                  "cost": 80
+              },
+              {
+                  "name": "Vada Pao",
+                  "cost": 60
+              },
+              {
+                  "name": "Dabeli",
+                  "cost": 50
+              }
+          ],
+          "avgRating": "4.2"
+      },
+      {
+          "type": "restaurant",
+          "data": {
+              "type": "F",
+              "id": "193541",
+              "name": "Behrouz Biryani",
+              "cloudinaryImageId": "craozjakzx7sll2uracb",
+              "cuisines": [
+                  "Biryani",
+                  "Mughlai",
+                  "Lucknowi",
+                  "Hyderabadi",
+                  "Kebabs",
+                  "North Indian",
+                  "Persian",
+                  "Desserts"
+              ],
+              "costForTwo": 50000,
+              "costForTwoString": "₹500 FOR TWO",
+              "deliveryTime": 49,
+              "minDeliveryTime": 45,
+              "restaurantId": 193541
+          },
+          "menu": [
+              {
+                  "name": "Laziz Biryani",
+                  "cost": 260
+              },
+              {
+                  "name": "Lucknavi Ghost",
+                  "cost": 290
+              },
+              {
+                  "name": "Tandoori Kebab",
+                  "cost": 280
+              },
+              {
+                  "name": "Fry Goat with mushroom gravy",
+                  "cost": 310
+              },
+              {
+                  "name": "Hyderabadi chicken Biryani",
+                  "cost": 340
+              }
+          ],
+          "avgRating": "4.3"
+      }
+  ]
+}
