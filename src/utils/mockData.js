@@ -2160,3 +2160,501 @@ export const restaurantList3 = [
     subtype: "basic",
   },
 ];
+
+export const restaurantList4 = [
+  {
+     type: "restaurant",
+     data: {
+      id: "221189",
+      name: "La Pino'z Pizza",
+      cloudinaryImageId: "pjtzpy7uvpmqlwdp3i2g",
+      locality: "Nadiad",
+      areaName: "Uttarsanda Road",
+      costForTwo: "₹250 for two",
+      cuisines: [
+        "Pizzas",
+        "Italian",
+        "Beverages"
+      ],
+      avgRating: 4.5,
+      veg: true,
+      parentId: "4961",
+      avgRatingString: "4.5",
+      totalRatingsString: "1K+",
+      sla: {
+        "deliveryTime": 22,
+        "lastMileTravel": 3.9,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "3.9 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      availability: {
+        "nextCloseTime": "2024-07-22 23:00:00",
+        "opened": true
+      },
+      badges: {
+        "imageBadges": [
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          }
+        ]
+      },
+      isOpen: true,
+      type: "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "pureveg",
+                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                }
+              }
+            ]
+          },
+          "textBased": {
+            
+          },
+          "textExtendedBadges": {
+            
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "40% OFF",
+        "subHeader": "UPTO ₹80"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {
+            
+          },
+          "video": {
+            
+          }
+        }
+      },
+      "reviewsSummary": {
+        
+      },
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {
+        
+      },
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/la-pinoz-pizza-uttarsanda-road-nadiad-221189",
+      type: "WEBLINK"
+    },
+  },
+  {
+    type: "restaurant",
+     data: {
+      id: "803819",
+      name: "The Belgian Waffle Co.",
+      cloudinaryImageId: "31c298bddfa617332b46c93bb209d572",
+      locality: "Rudra Avenue",
+      areaName: "Nadiad",
+      costForTwo: "₹200 for two",
+      cuisines: [
+        "Waffle",
+        "Desserts",
+        "Ice Cream"
+      ],
+      avgRating: 4.7,
+      veg: true,
+      parentId: "2233",
+      avgRatingString: "4.7",
+      totalRatingsString: "50+",
+      sla: {
+        "deliveryTime": 31,
+        "lastMileTravel": 3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "3.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      availability: {
+        "nextCloseTime": "2024-07-22 23:00:00",
+        "opened": true
+      },
+      badges: {
+        "imageBadges": [
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          }
+        ]
+      },
+      isOpen: true,
+      aggregatedDiscountInfoV2: {
+        
+      },
+      type: "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "pureveg",
+                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                }
+              }
+            ]
+          },
+          "textBased": {
+            
+          },
+          "textExtendedBadges": {
+            
+          }
+        }
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {
+            
+          },
+          "video": {
+            
+          }
+        }
+      },
+      "reviewsSummary": {
+        
+      },
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {
+        
+      },
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/the-belgian-waffle-co-rudra-avenue-nadiad-nadiad-803819",
+      type: "WEBLINK"
+    }
+  },
+  {
+    type: "restaurant",
+     data:{
+      id: "153504",
+      name: "The Grand Jyoti",
+      cloudinaryImageId: "em0bsirwxmhmgaa5obln",
+      locality: "Shanti Nagar",
+      areaName: "Nadiad City",
+      costForTwo: "₹200 for two",
+      cuisines: [
+        "Gujarati",
+        "Fast Food",
+        "Indian",
+        "South Indian",
+        "Chinese"
+      ],
+      avgRating: 4.6,
+      veg: true,
+      parentId: "209114",
+      avgRatingString: "4.6",
+      totalRatingsString: "5K+",
+      sla: {
+        "deliveryTime": 14,
+        "lastMileTravel": 0.2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "10-15 mins",
+        "lastMileTravelString": "0.2 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      availability: {
+        "nextCloseTime": "2024-07-22 17:00:00",
+        "opened": true
+      },
+      badges: {
+        "imageBadges": [
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          }
+        ]
+      },
+      isOpen: true,
+      aggregatedDiscountInfoV2: {
+        
+      },
+      type: "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "pureveg",
+                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                }
+              }
+            ]
+          },
+          "textBased": {
+            
+          },
+          "textExtendedBadges": {
+            
+          }
+        }
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {
+            
+          },
+          "video": {
+            
+          }
+        }
+      },
+      "reviewsSummary": {
+        
+      },
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {
+        
+      },
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/the-grand-jyoti-shanti-nagar-nadiad-city-nadiad-153504",
+      type: "WEBLINK"
+    }
+  },
+  {
+    type: "restaurant",
+     data:{
+      id: "722314",
+      name: "Tomato's",
+      cloudinaryImageId: "a3560950f38f287cedd5c5c2ce91f056",
+      locality: "Canal road",
+      areaName: "College Road",
+      costForTwo: "₹500 for two",
+      cuisines: [
+        "Punjabi",
+        "American",
+        "Chinese",
+        "Thalis"
+      ],
+      avgRating: 4.5,
+      veg: true,
+      parentId: "7578",
+      avgRatingString: "4.5",
+      totalRatingsString: "50+",
+      sla: {
+        "deliveryTime": 24,
+        "lastMileTravel": 2.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "2.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      availability: {
+        "nextCloseTime": "2024-07-22 15:00:00",
+        "opened": true
+      },
+      badges: {
+        
+      },
+      isOpen: true,
+      aggregatedDiscountInfoV2: {
+        
+      },
+      type: "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            
+          },
+          "textBased": {
+            
+          },
+          "textExtendedBadges": {
+            
+          }
+        }
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {
+            
+          },
+          "video": {
+            
+          }
+        }
+      },
+      "reviewsSummary": {
+        
+      },
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {
+        
+      },
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/tomatos-canal-road-college-road-nadiad-722314",
+      type: "WEBLINK"
+    }
+  },
+  {
+    type: "restaurant",
+     data:{
+      id: "519501",
+      name: "Foodland",
+      cloudinaryImageId: "mrskxdlmfopeww3tknm7",
+      areaName: "Pij Road",
+      costForTwo: "₹200 for two",
+      cuisines: [
+        "Burgers",
+        "Fast Food",
+        "Pizzas",
+        "Mexican",
+        "Beverages"
+      ],
+      avgRating: 4,
+      veg: true,
+      parentId: "3359",
+      avgRatingString: "4.0",
+      totalRatingsString: "500+",
+      sla: {
+        "deliveryTime": 22,
+        "lastMileTravel": 2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "2.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      availability: {
+        "nextCloseTime": "2024-07-22 23:00:00",
+        "opened": true
+      },
+      badges: {
+        "imageBadges": [
+          {
+            "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+            "description": "OnlyOnSwiggy"
+          },
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          }
+        ]
+      },
+      isOpen: true,
+      type: "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "OnlyOnSwiggy",
+                  "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "pureveg",
+                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                }
+              }
+            ]
+          },
+          "textBased": {
+            
+          },
+          "textExtendedBadges": {
+            
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹125 OFF",
+        "subHeader": "ABOVE ₹249",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {
+            
+          },
+          "video": {
+            
+          }
+        }
+      },
+      "reviewsSummary": {
+        
+      },
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {
+        
+      },
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/foodland-pij-road-nadiad-519501",
+      type: "WEBLINK"
+    }
+  },
+];
